@@ -265,6 +265,11 @@ section {
     text-align: center;
 }
 
+.bg {
+    height: 350px;
+    width: 850px;
+    margin-top: 250px;
+}
 
 
 /*seconde page*/
